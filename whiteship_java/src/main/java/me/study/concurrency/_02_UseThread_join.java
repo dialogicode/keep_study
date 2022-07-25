@@ -1,6 +1,6 @@
 package me.study.concurrency;
 
-public class _02_UseThread_Join {
+public class _02_UseThread_join {
 	public static void main(String[] args) throws InterruptedException {
 		/* 쓰레드 주요 기능 */
 		// 3. 다른 쓰레드 기다리기 (join)

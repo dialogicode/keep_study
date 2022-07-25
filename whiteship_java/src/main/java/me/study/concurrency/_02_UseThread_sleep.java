@@ -1,6 +1,6 @@
 package me.study.concurrency;
 
-public class _02_UseThread_Sleep {
+public class _02_UseThread_sleep {
 	public static void main(String[] args) {
 		/* 쓰레드 주요 기능 */
 		// 1. 현재 쓰레드 멈춰두기 (sleep)

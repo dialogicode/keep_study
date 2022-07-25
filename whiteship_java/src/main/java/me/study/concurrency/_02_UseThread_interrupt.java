@@ -1,6 +1,6 @@
 package me.study.concurrency;
 
-public class _02_UseThread_Interrupt {
+public class _02_UseThread_interrupt {
 	public static void main(String[] args) throws InterruptedException {
 		/* 쓰레드 주요 기능 */
 		// 2. 다른 쓰레드 깨우기 (interrupt)
